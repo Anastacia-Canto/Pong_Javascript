@@ -91,7 +91,6 @@ function reset() {
 // Initial load
 addEventListener("load", (event) => {
 	draw();
-	ctx.save();
 });
 
 
