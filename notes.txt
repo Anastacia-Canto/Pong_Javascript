@@ -1,0 +1,23 @@
+
+ - players must use the same keyboard - OK!
+
+
+ - organize code using Javascript DOM manipulation or JQuery
+ https://getbootstrap.com/docs/4.0/getting-started/javascript/
+ https://api.jquery.com/id-selector/
+
+
+
+ - MULTIPLE PLAYERS????
+
+
+ - remote players
+
+ - a tournament
+
+
+https://getbootstrap.com/docs/4.2/getting-started/introduction/
+
+
+
+ https://www.codewithfaraz.com/content/124/how-to-create-a-ping-pong-game-with-html-css-and-javascript
